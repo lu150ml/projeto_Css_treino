@@ -19,6 +19,7 @@
     justify-content: space-around;
     width: 70%;
     margin-right: 5%;
+
 }
 
 .rodapePrincipal-contatoForm {
@@ -27,4 +28,10 @@
 
 .rodapePrincipal-contatoForm-fieldset {
     display: flex;
+}
+.rodapePrincipal-navMap-list {
+   display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 250px;
 }
